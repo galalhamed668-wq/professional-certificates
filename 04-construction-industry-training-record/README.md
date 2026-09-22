@@ -38,3 +38,5 @@ It records the trainee's name, student ID, trainer, and training date.
 ## Training Record
 
 ![30-Hour Construction Industry Safety & Health Training Record](construction-industry-training-record_1.jpg)
+![30-Hour Construction Industry Safety & Health Training Record](construction-industry-training-record_2.jpg)
+
